@@ -1,14 +1,16 @@
-Readme file
+# DEVOPS ENGINEER - TECHNICAL ASSESSMENT 
 
-Run Bash scipt on a target hostthe script in this order
+Bash script are used to install a Kubernetes cluster on a Vm machine (Ubuntu VM hosted on Azure Cloud)
 
-git clone on target host
+run git clone https://github.com/stwe11/k8s.git to download those scripts on a target machine.
 
-to install and configure the server run all the script in numeric order
+# Test application
 
-to login to the serve copy in your directory /home/$HOME/.kube
-config file
+run 6-runSimpleApp.sh to deploy a simple ngnix application.
 
+# Monitoring and Logs
+
+Monitor is provider with this solution: https://raw.githubusercontent.com/techiescamp/kubeadm-scripts/main/manifests/metrics-server.yaml
 
 
 
