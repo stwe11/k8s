@@ -1,4 +1,4 @@
-# DEVOPS ENGINEER - TECHNICAL ASSESSMENT 
+# DEVOPS ENGINEER - TA 
 
 Bash script are used to install a Kubernetes cluster on a Vm machine (Ubuntu VM hosted on Azure Cloud)
 
